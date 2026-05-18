@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whiskey-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Whiskey Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-eyes/) |
+| **Get License** | [License this song: Whiskey Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha ae tu paya sarkaare
+> I see you looking girl, you got me staring
+> Whiskey da peg ni tu lutt laye nazare
+> Come a little closer, tell me what you wearing
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
